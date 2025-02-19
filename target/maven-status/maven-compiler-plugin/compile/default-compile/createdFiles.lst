@@ -1,4 +1,5 @@
 com/kedkpersonal/leetcodeexercises/UniqueOccurrences.class
+com/kedkpersonal/leetcodeexercises/models/ListNode.class
 com/kedkpersonal/leetcodeexercises/GCDofStrs.class
 com/kedkpersonal/leetcodeexercises/MoveZeroes.class
 com/kedkpersonal/leetcodeexercises/MergeStringAltn.class
@@ -10,4 +11,5 @@ com/kedkpersonal/leetcodeexercises/IsSubsequence.class
 com/kedkpersonal/leetcodeexercises/FindDifference.class
 com/kedkpersonal/leetcodeexercises/CanPlaceFlowers.class
 com/kedkpersonal/leetcodeexercises/LargestAltitude.class
+com/kedkpersonal/leetcodeexercises/ReverseList.class
 com/kedkpersonal/leetcodeexercises/ReverseVowels.class
