@@ -4,7 +4,9 @@
  */
 package com.kedkpersonal.leetcodeexercises.models;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 /**
@@ -29,9 +31,11 @@ public class TreeNode {
         this.left = left;
         this.right = right;
     }
-    
+
     public static TreeNode createTree(Integer[] arr) {
-        if (arr.length == 0 || arr[0] == null) return null;
+        if (arr.length == 0 || arr[0] == null) {
+            return null;
+        }
 
         TreeNode root = new TreeNode(arr[0]);
         Queue<TreeNode> queue = new LinkedList<>();
@@ -54,5 +58,33 @@ public class TreeNode {
             i++;
         }
         return root;
+    }
+
+    public static List<Integer> treeToArrayList(TreeNode root) {
+        List<Integer> result = new ArrayList<>();
+        if (root == null) {
+            return result;
+        }
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            TreeNode node = queue.poll();
+            if (node != null) {
+                result.add(node.val);
+                queue.offer(node.left);
+                queue.offer(node.right);
+            } else {
+                result.add(null);  // Maintain tree structure
+            }
+        }
+
+        // Remove trailing null values
+        while (!result.isEmpty() && result.get(result.size() - 1) == null) {
+            result.remove(result.size() - 1);
+        }
+
+        return result;
     }
 }
