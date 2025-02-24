@@ -1,5 +1,6 @@
 com/kedkpersonal/leetcodeexercises/LeafSimilarTest.class
 com/kedkpersonal/leetcodeexercises/FindMaxAverageTest.class
+com/kedkpersonal/leetcodeexercises/TribonacciTest.class
 com/kedkpersonal/leetcodeexercises/IsSubsequenceTest.class
 com/kedkpersonal/leetcodeexercises/ReverseVowelsTest.class
 com/kedkpersonal/leetcodeexercises/GCDofStrsTest.class
@@ -10,6 +11,7 @@ com/kedkpersonal/leetcodeexercises/PivotIndexTest.class
 com/kedkpersonal/leetcodeexercises/FindDifferenceTest.class
 com/kedkpersonal/leetcodeexercises/KidsWithCandiesTest.class
 com/kedkpersonal/leetcodeexercises/RecentCounterTest.class
+com/kedkpersonal/leetcodeexercises/MinCostClimbingStairsTest.class
 com/kedkpersonal/leetcodeexercises/MoveZeroesTest.class
 com/kedkpersonal/leetcodeexercises/GuessNumberTest.class
 com/kedkpersonal/leetcodeexercises/LargestAltitudeTest.class

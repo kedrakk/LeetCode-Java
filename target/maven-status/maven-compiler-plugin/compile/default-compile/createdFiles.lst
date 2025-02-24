@@ -1,8 +1,10 @@
 com/kedkpersonal/leetcodeexercises/UniqueOccurrences.class
 com/kedkpersonal/leetcodeexercises/models/ListNode.class
+com/kedkpersonal/leetcodeexercises/MinCostClimbingStairs.class
 com/kedkpersonal/leetcodeexercises/models/TreeNode.class
 com/kedkpersonal/leetcodeexercises/GCDofStrs.class
 com/kedkpersonal/leetcodeexercises/MoveZeroes.class
+com/kedkpersonal/leetcodeexercises/Tribonacci.class
 com/kedkpersonal/leetcodeexercises/MaxDepth.class
 com/kedkpersonal/leetcodeexercises/MergeStringAltn.class
 com/kedkpersonal/leetcodeexercises/FindMaxAverage.class
