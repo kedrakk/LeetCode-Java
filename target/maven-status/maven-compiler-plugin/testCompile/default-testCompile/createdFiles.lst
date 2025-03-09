@@ -6,6 +6,7 @@ com/kedkpersonal/leetcodeexercises/ReverseVowelsTest.class
 com/kedkpersonal/leetcodeexercises/GCDofStrsTest.class
 com/kedkpersonal/leetcodeexercises/MergeStringAltnTest.class
 com/kedkpersonal/leetcodeexercises/MaxDepthTest.class
+com/kedkpersonal/leetcodeexercises/SearchInsertTest.class
 com/kedkpersonal/leetcodeexercises/UniqueOccurrencesTest.class
 com/kedkpersonal/leetcodeexercises/PivotIndexTest.class
 com/kedkpersonal/leetcodeexercises/FindDifferenceTest.class
@@ -19,3 +20,4 @@ com/kedkpersonal/leetcodeexercises/ReverseListTest.class
 com/kedkpersonal/leetcodeexercises/RomanToIntTest.class
 com/kedkpersonal/leetcodeexercises/SearchBSTTest.class
 com/kedkpersonal/leetcodeexercises/CanPlaceFlowersTest.class
+com/kedkpersonal/leetcodeexercises/PlusOneTest.class
