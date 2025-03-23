@@ -1,8 +1,11 @@
+/Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/AreOccurrencesEqualTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/CanPlaceFlowersTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/FindDifferenceTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/FindMaxAverageTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/GCDofStrsTest.java
+/Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/GetLuckyTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/GuessNumberTest.java
+/Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/IsPrefixStringTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/IsSubsequenceTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/KidsWithCandiesTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/LargestAltitudeTest.java
@@ -10,7 +13,9 @@
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/MaxDepthTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/MergeStringAltnTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/MinCostClimbingStairsTest.java
+/Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/MinTimeToTypeTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/MoveZeroesTest.java
+/Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/NumOfStringsTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/PivotIndexTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/PlusOneTest.java
 /Users/kedk/NetBeansProjects/leetcodeexercises/src/test/java/com/kedkpersonal/leetcodeexercises/RecentCounterTest.java
