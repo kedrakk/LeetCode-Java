@@ -21,6 +21,7 @@ com/kedkpersonal/leetcodeexercises/IsPrefixStringTest.class
 com/kedkpersonal/leetcodeexercises/SearchInsertTest.class
 com/kedkpersonal/leetcodeexercises/FindDifferenceTest.class
 com/kedkpersonal/leetcodeexercises/GetLuckyTest.class
+com/kedkpersonal/leetcodeexercises/ReversePrefixTest.class
 com/kedkpersonal/leetcodeexercises/MoveZeroesTest.class
 com/kedkpersonal/leetcodeexercises/ReverseListTest.class
 com/kedkpersonal/leetcodeexercises/AreOccurrencesEqualTest.class
